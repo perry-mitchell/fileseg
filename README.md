@@ -1,7 +1,7 @@
 # fileseg
 File segment fetching and replacing for configuration files
 
-[![Build Status](https://travis-ci.org/perry-mitchell/fileseg.svg?branch=master)](https://travis-ci.org/perry-mitchell/fileseg)
+[![Build Status](https://travis-ci.org/perry-mitchell/fileseg.svg?branch=master)](https://travis-ci.org/perry-mitchell/fileseg) [![npm version](https://badge.fury.io/js/fileseg.svg)](https://www.npmjs.com/package/fileseg)
 
 ## Installation
 Simply install by running `npm install fileseg --save`.
