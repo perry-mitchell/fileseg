@@ -8,6 +8,10 @@
     "test:lint": "eslint -c .eslintrc source/**/*.js",
     "test:unit": "mocha -r test/index.js test/**/*.spec.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perry-mitchell/fileseg.git"
+  },
   "keywords": [
     "config",
     "settings",
